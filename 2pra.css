@@ -1,6 +1,0 @@
-header {
-	height: 200px;
-	background-color: red;
-	/*for browsers that do not support gradients*/
-	background-image: linear-gradient(red, yellow)
-}
